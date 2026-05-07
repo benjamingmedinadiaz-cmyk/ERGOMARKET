@@ -42,7 +42,7 @@ app.post("/checkout", async (req, res) => {
         ],
 
         back_urls: {
-          success: "https://tu-tienda.com/success"
+          success: "https://ergomarket.netlify.app/"
         },
 
         auto_return: "approved"
